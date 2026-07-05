@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "mandatory": false,
   "releaseDate": "2026-07-05",
-  "notes": "الإصدار الأول من برنامج الأرشفة.",
+  "notes": "الإصدار الأول من برنامج الأرشفة.\n- إنشاء قاعدة البيانات والجداول تلقائياً عند أول تشغيل.\n- مثبّت يتضمّن SQL Server Express.",
   "url": "https://github.com/mustafaalfahd-max/datastore-releases/releases/download/v1.0.0/datastore.exe",
-  "sha256": "A399CA45D871DD2DC40D9212C2DFDE3E64DF953660542CEFB8517E8EFFD3A2DC"
+  "sha256": "66EEDF588E8A1987903CB81F7DCE68500613AFA30C460765BE060688A8D6F4A4"
 }
