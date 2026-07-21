@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "mandatory": false,
-  "releaseDate": "2026-07-05",
-  "notes": "الإصدار الأول من برنامج الأرشفة.\n- مثبّت مكتفٍ ذاتياً (SQL Server Express + WebView2 مدمجان، بدون إنترنت).\n- تهيئة تلقائية لقاعدة البيانات وحساب SQL — يعمل لأي مستخدم ويندوز وعلى الشبكة.\n- أيقونة مخصّصة.",
-  "url": "https://github.com/mustafaalfahd-max/datastore-releases/releases/download/v1.0.0/datastore.exe",
-  "sha256": "699E75782C2120DDE60D11ED2E5E13A79369DD7153BBF2A1F224E22C3D646BB1"
+  "releaseDate": "2026-07-21",
+  "notes": "تحديث آمن لا يؤثّر على بياناتك:\n- توحيد شكل القوائم المنسدلة + بحث في الأضابير.\n- أضبارة \"بدون تصنيف\" للكتب الفردية.\n- شاشة نسخ احتياطي مستقلة (زر واحد).\n- تحكّم بمقياس الواجهة (حادّ).\n- دعم الاتصال الشبكي والربط المباشر بكيبل.\n- إصلاح تثبيت SQL على الأجهزة بأسماء مستخدمين عربية.",
+  "url": "https://github.com/mustafaalfahd-max/datastore-releases/releases/download/v1.0.1/datastore.exe",
+  "sha256": "7BC1019B0695D438B2D0033F7CD1C9638647239595F133EC23D0B84C32EC8AEB"
 }
